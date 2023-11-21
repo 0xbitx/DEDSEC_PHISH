@@ -31,6 +31,12 @@ When a victim enters their credentials, you should access the original website a
 ### LANGUAGE 
 * Python
 
+
+## Support
+
+If you find my work helpful and want to support me, consider making a donation. Your contribution will help me continue working on open-source projects.
+
+**Bitcoin Address: `36ALguYpTgFF3RztL4h2uFb3cRMzQALAcm`**
                          
 
 ### DISCLAIMER
