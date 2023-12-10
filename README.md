@@ -11,7 +11,8 @@ When a victim enters their credentials, you should access the original website a
 ### INSTALLATION [ KALI ]
 * git clone https://github.com/0xbitx/DEDSEC_PHISH.git
 * cd DEDSEC_PHISH
-* sudo pip3 install pystyle tabulate pycryptodome
+* sudo pip3 install pystyle
+* chmod +x dedsec_phish
 * sudo ./dedsec_phish
 
 ### TUNNELLING
