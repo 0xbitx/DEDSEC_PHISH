@@ -27,14 +27,18 @@ When a victim enters their credentials, you should access the original website a
 <img src="https://github.com/user-attachments/assets/3413e7ba-12f2-46f6-91b8-f9a703d0921c", width="500", height="500">
 </p>
 
-
 ### INSTALLATION 
-* git clone https://github.com/0xbitx/DEDSEC_PHISH.git
-* cd DEDSEC_PHISH
-* sudo pip3 install tabulate tqdm
-* chmod +x dedsec_phish
-* sudo ./dedsec_phish
-
+    * git clone https://github.com/0xbitx/DEDSEC_PHISH.git
+    * cd DEDSEC_PHISH
+    * pip3 install tqdm tabulate "qrcode[pil]"
+    * chmod +x dedsec-phish
+    * ./dedsec-phish
+    
+    or
+    
+    * sudo apt install ./dedsec-phish.deb
+    * dedsec-phish
+    
 ### TESTED ON FOLLOWING
 * Kali Linux 
 * Parrot OS
